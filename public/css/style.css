@@ -48,15 +48,8 @@
     display: inline-block;
     position: relative;
     padding: 5px;
-    text-align:left
-    left: auto;
+    text-align:left;
 }
-
-. class=nimate__animated animate__zoomIn{
-    text-align: center:;
-    flex:ccenter;
-}
-
 .audio{
     width: 150px;
     height: 150px;
